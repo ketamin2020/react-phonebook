@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-phonebook/static/css/main.8d1bb6e7.chunk.css",
-    "main.js": "/react-phonebook/static/js/main.6a0b668e.chunk.js",
-    "main.js.map": "/react-phonebook/static/js/main.6a0b668e.chunk.js.map",
-    "runtime-main.js": "/react-phonebook/static/js/runtime-main.6d70ee93.js",
-    "runtime-main.js.map": "/react-phonebook/static/js/runtime-main.6d70ee93.js.map",
-    "static/js/2.919e05f3.chunk.js": "/react-phonebook/static/js/2.919e05f3.chunk.js",
-    "static/js/2.919e05f3.chunk.js.map": "/react-phonebook/static/js/2.919e05f3.chunk.js.map",
-    "index.html": "/react-phonebook/index.html",
-    "precache-manifest.9873ea31d3f0c71638d1580414f4dd9d.js": "/react-phonebook/precache-manifest.9873ea31d3f0c71638d1580414f4dd9d.js",
-    "service-worker.js": "/react-phonebook/service-worker.js",
-    "static/css/main.8d1bb6e7.chunk.css.map": "/react-phonebook/static/css/main.8d1bb6e7.chunk.css.map",
-    "static/js/2.919e05f3.chunk.js.LICENSE.txt": "/react-phonebook/static/js/2.919e05f3.chunk.js.LICENSE.txt"
+    "main.css": "/phonebook-5-react/static/css/main.4cba9ae3.chunk.css",
+    "main.js": "/phonebook-5-react/static/js/main.ed286054.chunk.js",
+    "main.js.map": "/phonebook-5-react/static/js/main.ed286054.chunk.js.map",
+    "runtime-main.js": "/phonebook-5-react/static/js/runtime-main.94cfd499.js",
+    "runtime-main.js.map": "/phonebook-5-react/static/js/runtime-main.94cfd499.js.map",
+    "static/js/2.f5e95e8f.chunk.js": "/phonebook-5-react/static/js/2.f5e95e8f.chunk.js",
+    "static/js/2.f5e95e8f.chunk.js.map": "/phonebook-5-react/static/js/2.f5e95e8f.chunk.js.map",
+    "index.html": "/phonebook-5-react/index.html",
+    "precache-manifest.71158414cacf1a053dbf2cd64ac75210.js": "/phonebook-5-react/precache-manifest.71158414cacf1a053dbf2cd64ac75210.js",
+    "service-worker.js": "/phonebook-5-react/service-worker.js",
+    "static/css/main.4cba9ae3.chunk.css.map": "/phonebook-5-react/static/css/main.4cba9ae3.chunk.css.map",
+    "static/js/2.f5e95e8f.chunk.js.LICENSE.txt": "/phonebook-5-react/static/js/2.f5e95e8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d70ee93.js",
-    "static/js/2.919e05f3.chunk.js",
-    "static/css/main.8d1bb6e7.chunk.css",
-    "static/js/main.6a0b668e.chunk.js"
+    "static/js/runtime-main.94cfd499.js",
+    "static/js/2.f5e95e8f.chunk.js",
+    "static/css/main.4cba9ae3.chunk.css",
+    "static/js/main.ed286054.chunk.js"
   ]
 }
